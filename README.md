@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Cooking.
+- 🌱 I’m currently learning Spring.
 - ⚡ Fun fact: Humans are the only animals that blush.
 ### Thank you for visiting the profile.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/luvifer03)
